@@ -4,5 +4,5 @@
 ## [Course: Networking Fundamentals, Protocols, and Cisco Ecosystem](Pour.Robert/NetworkingCourse/00.NetworkingCourse.md)
 
 # Pour Alex
-## [Tuto: Docker installation simple Windows11 et explication et install de Stirling PDF.](Pour.Alex/01.Docker-compose.stirlingpdf.md)
+## [Tuto: Docker installation simple Windows 10/11 et explication et install de Stirling PDF.](Pour.Alex/01.Docker-compose.stirlingpdf.md)
 ### Stirling PDF qui fait tout ce que adobe acrobat pro fait, mais tout en local et seulement sur ton ordi.
