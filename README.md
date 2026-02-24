@@ -11,3 +11,7 @@
 ## [Tuto 03: Docker Compose quick install de Vaultgarden en 3 minutes.](Pour.Alex/03.Docker-compose.vaultwarden.md)
 ### Vaultgarden c'est un password, notes et 2fa tokens manager local et offline pour anyone but you de la manière qu'il est configuré.
 
+## [Tuto 04: Docker Network avec Caddy et les hostnames locaux](Pour.Alex/04.Docker-caddy.local-hostnames.md)
+### La modularité de Docker Network avec Caddy c'est le next step pour oublier ton addresse IP et utiliser des noms plus simples à utiliser,mais aussi apprendre un peu plus le principe modulaire d'un compose file.
+
+
