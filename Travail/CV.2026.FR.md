@@ -1,6 +1,6 @@
 # Marc-André Benoit
 #### [**English Version**](CV.2026.EN.md)
-**Courriel:** marcandrebenoitwork À gmail point com
+**Courriel:** marcandrebenoitwork À gmail Point com
 ---
 
 ## EXPÉRIENCE PROFESSIONNELLE
