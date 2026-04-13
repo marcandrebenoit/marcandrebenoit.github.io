@@ -70,7 +70,7 @@
 
 * Participation aux conseils d'administration et de direction.
 * Coordination avec le milieu festif montréalais pour l'implantation de kiosques d'information.
-* Intervenant pivot en réduction des méfaits pour informer sur la consommation responsable d'alcool et de drogues.
+* Intervenant en réduction des méfaits pour informer sur la consommation responsable d'alcool et de drogues en milieu festif.
 
 ---
 
