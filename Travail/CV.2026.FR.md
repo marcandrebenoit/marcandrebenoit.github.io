@@ -1,7 +1,6 @@
 # Marc-André Benoit
 
-**Courriel :** marcandrebenoitwork@gmail.com  
-**Téléphone :** 514-831-5845
+**Courriel :** marcandrebenoitwork AT gmail Point com
 
 ---
 
@@ -83,7 +82,7 @@
 
 ## COMPÉTENCES TECHNIQUES
 
-* **Langages :** Bash, Python, Rust, Java, PHP, JavaScript, Assembleur (ASM).
+* **Langages :** Bash, Python, Rust, Java, PHP, JavaScript, Markdown, Assembleur (ASM).
 * **QA et Test :** TestRail, suites de tests, moteurs de jeu (UE5), tests sur consoles (PS, Xbox, Nintendo).
 * **Sécurité :** Sécurité de l'information, Pentesting, Analyse de données.
 * **Systèmes :** Linux (Ubuntu), Virtualisation (VM), PowerShell, CI/CD.
