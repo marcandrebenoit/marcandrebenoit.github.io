@@ -1,7 +1,6 @@
 # Marc-André Benoit
-
-**Courriel :** marcandrebenoitwork AT gmail Point com
-
+#### [**English Version**](CV.2026.EN.md)
+**Courriel :** marcandrebenoitwork À gmail point com
 ---
 
 ## EXPÉRIENCE PROFESSIONNELLE
@@ -76,13 +75,13 @@
 
 ## FORMATION
 
-**Université du Québec à Montréal (UQAM)** *Baccalauréat en informatique et génie logiciel* | 2007 – 2015 (Partiel)
+**Université du Québec à Montréal (UQAM)** *Baccalauréat en informatique et génie logiciel* | 2007 – 2015 (Partiellement Complété)
 
 ---
 
 ## COMPÉTENCES TECHNIQUES
 
-* **Langages :** Bash, Python, Rust, Java, PHP, JavaScript, Markdown, Assembleur (ASM).
-* **QA et Test :** TestRail, suites de tests, moteurs de jeu (UE5), tests sur consoles (PS, Xbox, Nintendo).
-* **Sécurité :** Sécurité de l'information, Pentesting, Analyse de données.
-* **Systèmes :** Linux (Ubuntu), Virtualisation (VM), PowerShell, CI/CD.
+* **Langages :** Bash, Python, Rust, Java, PHP, JavaScript, Markdown,  ASMx86, Typescript, PowerShell.
+* **QA et Test :** TestRail, Entrée de bogues Jira (STR), Moteurs de jeu (UE4/5), Tests Consoles(Playstation, Xbox, Nintendo), Tests mobiles(Android,iOS), Tests A/B, AQ de Certification, AQ Fonctionalités, AQ d'Accessibilité.
+* **Sécurité & Systèmes:** Sécurité de l'information, Pentesting, Analyse de données, Linux, Virtualisation, CI/CD, Git, Github Actions.
+* **Technologies Web:** WooCommerce, HTML5, CSS3, Astro, Wrangler, Cloud, IA.
