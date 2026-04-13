@@ -44,6 +44,14 @@ Ubuntu finit d'installer ses composants. C'est l'étape la plus longue (10-15 mi
 
 **Note :** Une fois terminé, la machine va redémarrer et tu arriveras sur ton bureau Ubuntu !
 
+### ⚠️ Note importante sur la fin de l'installation
+À la toute fin, il est possible qu'Ubuntu affiche un message d'erreur disant **"Something went wrong"** avec un triangle orange. 
+
+**Pas de panique !** C'est un petit bogue visuel sans conséquence. Ton Ubuntu est en réalité déjà installé et prêt.
+1. Clique sur le bouton **Close** ou ferme simplement la fenêtre de la machine.
+2. Relance la machine avec l'icône sur ton bureau.
+3. Quand on te demande ton mot de passe, tape : **user**
+
 ---
 
 ## 📁 Partager des fichiers
